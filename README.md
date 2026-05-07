@@ -67,5 +67,5 @@ This project deployed on 🌐 Deployment
 This project can be deployed easily on: vercel
 live link : https://git-hub-battle-arena-efiw.vercel.app/
 
-Clone Repo : 
+Clone Repo : https://github.com/wsmkhan2580/GitHub-Battle-Arena.git
  
