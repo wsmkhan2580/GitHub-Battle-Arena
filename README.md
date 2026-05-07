@@ -59,4 +59,13 @@ Then open [http://localhost:5173](http://localhost:5173)
 - Typography: Syne (display) + Space Mono (data/code)
 - Accent: `#00e6b8` teal / green
 - Fully custom CSS with CSS variables for theming
+
+🌐 Deployment
+
+This project deployed on 🌐 Deployment
+
+This project can be deployed easily on: vercel
+live link : https://git-hub-battle-arena-efiw.vercel.app/
+
+Clone Repo : 
  
